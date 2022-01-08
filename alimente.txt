@@ -1,0 +1,5 @@
+Vel Pitar,paine,500,7
+Oke,lapte,1,6
+Nutella,ciocolata,700,14
+Nestea,ceai de piersici,1.5,6
+Fanta,suc de portocale,2,5.5

@@ -1,0 +1,3 @@
+﻿  ListaTipAliment.cpp
+C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ListaTipAliment\ListaTipAliment\ControlAliment.h(73): warning C4715: 'ControlAliment::GetAlimentByFirmaAndNumeAndGreutate': not all control paths return a value
+  ListaTipAliment.vcxproj -> C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ListaTipAliment\ListaTipAliment\Debug\ListaTipAliment.exe
